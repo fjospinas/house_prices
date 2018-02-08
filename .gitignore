@@ -1,0 +1,12 @@
+# Notebook checkpoints
+/.ipynb_checkpoints/*
+
+# Tensorboard logs
+/logs/*
+
+# Plots
+/plots/*
+
+# Data
+*.xlsx
+
